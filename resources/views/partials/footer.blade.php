@@ -1,4 +1,4 @@
-<footer class="bg-dark">
+<footer class="bg-dark" id="footer">
     <div class="container bg-dark">
         <div class="footer">
             <div class="row">
@@ -8,22 +8,22 @@
                 </div>
                 <div class="col-md-4">
                     <h3>
-                        Welcome to the site
+                        Welcome to the site of Vaishnavi Traders 
                     </h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, assumenda. Culpa, libero.</p>
+                    <p>Vaishnavi Traders is your trusted ecommerce hub for the latest and most reliable electrical gadgets.</p>
                 </div>
                 <div class="col-md-4">
                     <h3>
                         Contact:
                     </h3>
-                    <p>Email: mohammedomer789@gmail.com</p>
-                    <p>Website: <a href="https://mhmdomer.com">Personal Website</a></p>
-                    <p>Github: <a href="https://github.com/mhmdomer">@mhmdomer</a></p>
-                    <p>Twitter: <a href="https://twitter.com/mhmdomer_">@mhmdomer_</a></p>
-                    <p>LinkedIn: <a href="https://linkedin.com/in/mohammed-omer-ali">Mohammed Omer</a></p>
+                    <p>Email: vaishnavi@gmail.com</p>
+                 
+                    <p>Github: <a href="https://github.com/">@Vaishnavi55</a></p>
+                    <p>Twitter: <a href="https://twitter.com/">@vaishnavi634</a></p>
+                    <p>LinkedIn: <a href="https://www.linkedin.com/">@vaisnavi878</a></p>
                 </div>
             </div>
         </div>
-        <p>copyright &copy; Mohammed Omer Ali - All rights reserved 2019</p>
+        <p>copyright &copy; Vaishnavi Traders - All rights reserved 2025</p>
     </div>
 </footer>

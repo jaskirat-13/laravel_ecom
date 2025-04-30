@@ -7,11 +7,11 @@
     <div class="hero-content">
         <div class="col-md-4 hero-text">
             <h3>
-                Welcome to the site Welcome to the site
+                Welcome to the Vaishnavi Traders Site
             </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, assumenda. Culpa, libero.</p>
-            <button class="btn custom-border my-2 my-sm-0">Shop</button>
-            <button class="btn custom-border my-2 my-sm-0">Contact Us</button>
+            <p>Vaishnavi Traders is your trusted ecommerce hub for the latest and most reliable electrical gadgets.</p>
+            <a class="btn custom-border my-2 my-sm-0" href="{{ route('shop.index') }}">Shop</a>
+            <a class="btn custom-border my-2 my-sm-0" href="#footer">Contact Us</a>
         </div>
     </div>
 </div>
@@ -19,8 +19,9 @@
 <!-- start page content -->
 <div class="container">
     <div class="content-head">
-        <h2 style="text-align:center; font-weight: bold">Ecommerce</h2>
-        <p style="text-align: center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam accusamus eos quibusdam, esse voluptates voluptatibus id corporis facere neque amet alias molestias itaque ex porro architecto blanditiis distinctio maxime laboriosam.</h2>
+        <h2 style="text-align:center; font-weight: bold">Welcome to Vaishnavi Traders</h2>
+        <p style="text-align: center">
+            Your one-stop ecommerce destination for high-quality electrical gadgets. From the latest tech essentials to everyday electrical solutions, we bring you reliable products at unbeatable prices — delivered straight to your doorstep.</h2>
     </div>
     <h2 class="header text-center">Featured Products</h2>
     <!-- start products row -->
@@ -32,7 +33,7 @@
                     <div class="card view overlay zoom">
                         <img src="{{ productImage($product->image) }}" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">{{ $product->name }}<span class="float-right">$ {{ format($product->price) }}</span></h5>
+                            <h5 class="card-title">{{ $product->name }}<span class="float-right">₹ {{ format($product->price) }}</span></h5>
                             {{-- <div class="product-actions" style="display: flex; align-items: center; justify-content: center">
                                 <a class="cart" href="#" style="margin-right: 1em"><i style="color:blue; font-size: 1.3em" class="fas fa-cart-plus"></i></a>
                                 <a class="like" href="#" style="margin-right: 1em"><i style="color:blue; font-size: 1.3em" class="fa fa-thumbs-up"></i></a>
@@ -62,7 +63,7 @@
                     <div class="card view overlay zoom">
                         <img src="{{ productImage($product->image) }}" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">{{ $product->name }}<span class="float-right">$ {{ format($product->price) }}</span></h5>
+                            <h5 class="card-title">{{ $product->name }}<span class="float-right">₹ {{ format($product->price) }}</span></h5>
                             {{-- <div class="product-actions" style="display: flex; align-items: center; justify-content: center">
                                 <a class="cart" href="#" style="margin-right: 1em"><i style="color:blue; font-size: 1.3em" class="fas fa-cart-plus"></i></a>
                                 <a class="like" href="#" style="margin-right: 1em"><i style="color:blue; font-size: 1.3em" class="fa fa-thumbs-up"></i></a>

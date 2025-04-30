@@ -3,10 +3,7 @@
         <a class="nav-link" href="{{ route('shop.index') }}">Shop</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="#">Blog</a>
+        <a class="nav-link" href="#footer">About</a>
     </li>
     <li class="nav-item">
         <a class="nav-link {{ request()->route()->getName() == 'cart.index' ? 'active': '' }}" href="{{ route('cart.index') }}">

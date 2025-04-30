@@ -246,7 +246,7 @@
                                                     @endif
                                                 @else
                                                     @include('voyager::multilingual.input-hidden-bread-browse')
-                                                    <span>${{ format($data->{$row->field}) }}</span>
+                                                    <span>₹{{ format($data->{$row->field}) }}</span>
                                                 @endif
                                             </td>
                                         @endforeach

@@ -153,7 +153,7 @@
                             @else
                                 @include('voyager::multilingual.input-hidden-bread-read')
                                 @if ($row->display_name == 'Total' || $row->display_name == 'Tax' || $row->display_name == 'Subtotal' || $row->display_name == 'Discount')
-                                    <p>${{ format($dataTypeContent->{$row->field}) }}</p>
+                                    <p>₹{{ format($dataTypeContent->{$row->field}) }}</p>
                                 @else
                                     <p>{{ $dataTypeContent->{$row->field} }}</p>
                                 @endif
