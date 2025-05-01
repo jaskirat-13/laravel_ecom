@@ -7,9 +7,9 @@
     <div class="hero-content">
         <div class="col-md-4 hero-text">
             <h3>
-                Welcome to the Vaishnavi Traders Site
+                Welcome to the Safal Gadgets
             </h3>
-            <p>Vaishnavi Traders is your trusted ecommerce hub for the latest and most reliable electrical gadgets.</p>
+            <p>Safal Gadgets is your trusted ecommerce hub for the latest and most reliable electrical gadgets.</p>
             <a class="btn custom-border my-2 my-sm-0" href="{{ route('shop.index') }}">Shop</a>
             <a class="btn custom-border my-2 my-sm-0" href="#footer">Contact Us</a>
         </div>
@@ -19,7 +19,7 @@
 <!-- start page content -->
 <div class="container">
     <div class="content-head">
-        <h2 style="text-align:center; font-weight: bold">Welcome to Vaishnavi Traders</h2>
+        <h2 style="text-align:center; font-weight: bold">Welcome to Safal Gadgets</h2>
         <p style="text-align: center">
             Your one-stop ecommerce destination for high-quality electrical gadgets. From the latest tech essentials to everyday electrical solutions, we bring you reliable products at unbeatable prices — delivered straight to your doorstep.</h2>
     </div>

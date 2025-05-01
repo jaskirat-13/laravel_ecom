@@ -8,22 +8,20 @@
                 </div>
                 <div class="col-md-4">
                     <h3>
-                        Welcome to the site of Vaishnavi Traders 
+                        Welcome to the website of Safal Gadgets
                     </h3>
-                    <p>Vaishnavi Traders is your trusted ecommerce hub for the latest and most reliable electrical gadgets.</p>
+                    <p>Safal Gadgets is your trusted ecommerce hub for the latest and most reliable electrical gadgets.</p>
                 </div>
                 <div class="col-md-4">
                     <h3>
                         Contact:
                     </h3>
-                    <p>Email: vaishnavi@gmail.com</p>
-                 
-                    <p>Github: <a href="https://github.com/">@Vaishnavi55</a></p>
-                    <p>Twitter: <a href="https://twitter.com/">@vaishnavi634</a></p>
-                    <p>LinkedIn: <a href="https://www.linkedin.com/">@vaisnavi878</a></p>
+                    <p>Email: safalgadgets@gmail.com</p>
+                    <p>Mobile No.: +91 7649910200</p>
+                    
                 </div>
             </div>
         </div>
-        <p>copyright &copy; Vaishnavi Traders - All rights reserved 2025</p>
+        <p>copyright &copy; Safal Gadgets - All rights reserved 2025</p>
     </div>
 </footer>
